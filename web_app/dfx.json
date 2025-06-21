@@ -1,0 +1,13 @@
+{
+    "canisters": {
+        "bit10_testnet": {
+            "frontend": {
+                "entrypoint": "out/index.html"
+            },
+            "source": [
+                "out"
+            ],
+            "type": "assets"
+        }
+    }
+}
