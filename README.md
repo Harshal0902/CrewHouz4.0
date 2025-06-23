@@ -10,6 +10,10 @@ Investing in DeFi requires extensive research, and buying individual tokens ofte
 
 BIT10 provides a pre-selected basket of assets, reducing research time and cost. By buying one token, users invest in a diversified set of assets. With an auto-rebalancing mechanism, BIT10 optimizes portfolio performance by replacing poorly performing tokens with better ones.
 
+## 🔒 Use of ICP
+
+We have used **ICP's ChainKey** for connecting to other chains like Binance, Ethereum, SUI, Tron, Solana and Bitcoin. The code used can be found in `asset_storage` folder.
+
 ## 🌐 Features
 
 - **Diversified Exposure**: Gain exposure to multiple DeFi assets with a single token.
